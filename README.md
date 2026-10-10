@@ -1,3 +1,10 @@
+# Tiny Planet on Hand
+
+Hold a tiny world in the palm of your hand — live at https://tiny-planet-on-hand.vincentt.app.
+3D models: “Toy Cartoon Planets” by Gerhald, CC BY 4.0 — see [CREDITS.md](./CREDITS.md).
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
